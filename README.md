@@ -1,5 +1,5 @@
 # Navier_Stokes_PINN
-Reimplementating the PINN of the Paper: Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations, as a self study.
+Reimplementating the PINN for the approximation of the Navier Stokes Equations of the Paper: Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations, as a self study.
 
 Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations
 Maziar Raissi, Paris Perdikaris, and George Em Karniadakis
