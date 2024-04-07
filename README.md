@@ -8,4 +8,5 @@ Division of Applied Mathematics, Brown University, Providence, RI, 02912, USA
 Philadelphia, PA, 19104, USA
 
 Paper: https://arxiv.org/pdf/1711.10566.pdf
+Github: https://github.com/maziarraissi/PINNs/
 
